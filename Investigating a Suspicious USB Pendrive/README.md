@@ -59,4 +59,5 @@
 * Alternatively, we can use Binary pattern to wipe the data in usb drive instead of text pattern.
   `dc3dd wipe=/dev/sdb pat=000111`
 
-  ![Uploading image.png…]()
+  ![image](https://github.com/KVNuhman/Cyber-Forensics/assets/46161259/e5707c7a-d0f6-497f-90b6-55f58f84c32a)
+
